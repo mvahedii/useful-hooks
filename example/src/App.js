@@ -1,13 +1,9 @@
-import React from 'react'
+import React from "react";
 
-import { useMyHook } from 'useful-hooks'
+import { useClipboard } from "useful-hooks";
 
 const App = () => {
-  const example = useMyHook()
-  return (
-    <div>
-      {example}
-    </div>
-  )
-}
-export default App
+  const example = useClipboard();
+  return <div>{example}</div>;
+};
+export default App;

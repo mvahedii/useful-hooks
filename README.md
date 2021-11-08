@@ -1,6 +1,6 @@
 # useful-hooks
 
-> 
+>
 
 [![NPM](https://img.shields.io/npm/v/useful-hooks.svg)](https://www.npmjs.com/package/useful-hooks) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
@@ -10,7 +10,7 @@
 npm install --save useful-hooks
 ```
 
-## Usage
+<!-- ## Usage
 
 ```tsx
 import * as React from 'react'
@@ -25,7 +25,7 @@ const Example = () => {
     </div>
   )
 }
-```
+``` -->
 
 ## License
 
